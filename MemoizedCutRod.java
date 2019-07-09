@@ -2,7 +2,7 @@ import java.lang.Math;
 /** 
  * Program to solve the rod-cutting problem using top down and memoization.
  *
- *@author Erika Yardumian - CPSC - 3283
+ *@author Erika Yardumian
  *@version 4/11/19
  */
  
